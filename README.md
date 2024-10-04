@@ -1,0 +1,1 @@
+Here are some of my personal projects including, Optimising Enterprise Asset Management, a comprehensive analysis of Yelp reviews and a fraud detection model for hospital insurance claims, have equipped me with a keen analytical mindset and a proactive approach to identifying and solving complex problems. 
